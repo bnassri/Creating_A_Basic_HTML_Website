@@ -337,3 +337,14 @@ section {
     background-color: #8D8E8F;
     box-shadow: inset 1px 2px 15px 0 rgba(0,0,0,0.5);
 }
+
+/*
+    Footer Styles
+*/
+
+#footer {
+    background-color: rgba(100,65,0,.3);
+    color: #000;
+    text-shadow: 2px 2px 8px 0 rgba(0,0,0,1);
+    text-align: right;
+}
