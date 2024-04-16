@@ -250,6 +250,7 @@ section {
     color: #13161B;
     width: 50%;
     margin: 0 auto;
+    text-align: center;
 }
 
 .reservation form {
@@ -349,7 +350,7 @@ section {
 }
 
 /*
-    Media Queries
+    Media Queries - not used
 */
 
 @media all and (max-width: 640px) and (min-width: 381px) {
